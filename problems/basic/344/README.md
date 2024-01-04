@@ -1,7 +1,8 @@
 # README
 
-- Problem: [344. Reverse String][problem]
-- Difficulty: Easy
+![Difficulty Easy](https://img.shields.io/badge/Difficulty-Easy-green)
+
+Problem: [344. Reverse String][problem]
 
 [problem]: https://leetcode.com/problems/reverse-string/description/
 
@@ -22,10 +23,10 @@ Suppose that the input string has a length of $N$.
 
 ### Time
 
-The reversing visits each characters.
+Reversing visits each characters.
 Thus, $O(N)$.
 
 ### Space
 
-The problem requires not to use more than $O(1)$ extra space.
+The problem requires to use no more than $O(1)$ extra space.
 Of course, the input string takes $O(N)$ space.

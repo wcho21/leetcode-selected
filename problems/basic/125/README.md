@@ -1,7 +1,8 @@
 # README
 
-- Problem: [125. Valid Palindrome][problem]
-- Difficulty: Easy
+![Difficulty Easy](https://img.shields.io/badge/Difficulty-Easy-green)
+
+Problem: [125. Valid Palindrome][problem]
 
 [problem]: https://leetcode.com/problems/valid-palindrome/description/
 
