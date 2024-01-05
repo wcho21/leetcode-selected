@@ -1,6 +1,6 @@
 # Leetcode selected
 
-![Progress Badge](https://img.shields.io/badge/Progress-4%20Solved-blue)
+![Progress Badge](https://img.shields.io/badge/Progress-5%20Solved-blue)
 
 My solutions and notes for select problems in [Leetcode][leetcode].
 
@@ -12,11 +12,13 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 
 | No. | Note | Difficulty |
 | -: | :- | :-: |
+| 49 | [Group Anagrams][p49] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 125 | [Valid Palindrome][p125] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 344 | [Reverse String][p344] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 819 | [Most Common Word][p819] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 937 | [Reorder Data in Log Files][p937] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
+[p49]: ./problems/basic/49/README.md
 [p125]: ./problems/basic/125/README.md
 [p344]: ./problems/basic/344/README.md
 [p819]: ./problems/basic/819/README.md
