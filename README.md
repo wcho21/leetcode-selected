@@ -1,7 +1,5 @@
 # Leetcode selected
 
-![Progress Badge](https://img.shields.io/badge/Progress-6%20Solved-blue)
-
 My solutions and notes for select problems in [Leetcode][leetcode].
 
 [leetcode]: https://leetcode.com/
@@ -9,6 +7,8 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 
 
 ## Selected problems
+
+![Progress Badge](https://img.shields.io/badge/Progress-6%20Solved-blue)
 
 | No. | Note | Difficulty |
 | -: | :- | :-: |
@@ -25,3 +25,17 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 [p344]: ./problems/basic/344/README.md
 [p819]: ./problems/basic/819/README.md
 [p937]: ./problems/basic/937/README.md
+
+## Contest problems
+
+| Contest | No. | Note | Difficulty |
+| :- | -: | :- | :-: |
+| B121 | 10031 | [Smallest Missing Integer Greater Than Sequential Prefix Sum][p10031] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| B121 | 10032 | [Minimum Number of Operations to Make Array XOR Equal to K][p10032]  | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| B121 | 10033 | [Minimum Number of Operations to Make X and Y Equal][p10033]          | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| B121 | 10034 | [Count the Number of Powerful Integers][p10034]                       | ![Hard](https://img.shields.io/badge/Hard-red) |
+
+[p10031]: ./problems/contest/10031/README.md
+[p10032]: ./problems/contest/10032/README.md
+[p10033]: ./problems/contest/10033/README.md
+[p10034]: ./problems/contest/10034/README.md
