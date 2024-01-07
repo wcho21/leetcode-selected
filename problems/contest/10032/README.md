@@ -25,7 +25,7 @@ Suppose that the list of input numbers has a length of $N$, and all the numbers 
 
 ### Time
 
-The XOR operations occur $O(N)$ for the input numbers, and $O(M)$ to make the XOR result equal to `k`.
+The XOR operations occur $O(N)$ times for the input numbers, and $O(M)$ times to make the XOR result equal to `k`.
 Thus, $O(N+M)$.
 
 ### Space

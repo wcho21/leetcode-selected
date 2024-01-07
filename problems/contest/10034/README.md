@@ -11,7 +11,7 @@ Problem: [10034. Count the Number of Powerful Integers][problem]
 
 Steps:
 
-- Get the number of powerful integers up to finish, and start.
+- Get the number of powerful integers up to `finish`, and `start`.
 - The difference is the answer.
 
 The problem reduces to two main tasks.
@@ -51,6 +51,8 @@ Now the problem reduces to a smaller problem to find `count(upper) - count(lower
 
 Since the numbers that we'll count always have the same suffix, we're interested in the digits other than the suffix.
 So we'll do not care the `suffix` value.
+That is, here `n` is the digits other than `suffix` part.
+For example, if `suffix = 34`, then we'll say `n = 12` for the number `1234`.
 
 Suppose that `limit` is `6`.
 How can we count powerful integers from `0` to `n`, if `n = 3456`?
@@ -98,13 +100,6 @@ Note that the function `count(n)` counts the numbers up to `n`, so it includes t
 For similar reason, the call `count(-1)` returns `0` (nothing to count).
 Note that we'll calculate `count(lower-1)`. If `lower = 0`, then `count(-1)` can be called.
 
-```
-function count(n):
-    if n == -1:
-        return 0
-    if n == 0:
-        return 1
-```
 
 
 ## Complexities

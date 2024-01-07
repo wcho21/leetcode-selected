@@ -13,7 +13,7 @@ Problem: [10031. Smallest Missing Integer Greater Than Sequential Prefix Sum][pr
 Get the sum for the sequential prefix, i.e., $n(j) = n(j-1)+1$ for $1 \leq j \leq i$.
 
 If the sum is not in the input numbers, return it; otherwise, try the next number.
-To quickly determine the sum is in the numbers, store the input number into a set first.
+To quickly determine if the sum is in the numbers, store the input number into a set first.
 
 
 
