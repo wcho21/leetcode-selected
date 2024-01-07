@@ -20,7 +20,7 @@ This is the answer.
 
 ## Complexities
 
-Suppose that the list of heights has a length of $N$
+Suppose that the list of heights has a length of $N$.
 
 ### Time
 
