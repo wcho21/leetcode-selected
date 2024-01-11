@@ -8,7 +8,7 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 
 ## Selected problems
 
-![Progress Badge](https://img.shields.io/badge/Progress-12%20Solved-blue)
+![Progress Badge](https://img.shields.io/badge/Progress-19%20Solved-blue)
 
 | No. | Note | Difficulty |
 | -: | :- | :-: |
@@ -24,6 +24,13 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 | 561 | [Array Partition][p561] | ![Esay](https://img.shields.io/badge/Easy-green) |
 | 238 | [Product of Array Except Self][p238] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 121 | [Best Time to Buy and Sell Stock][p121] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 234 | [Palindrome Linked List][p234] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 21 | [Merge Two Sorted Lists][p21] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 206 | [Reverse Linked List][p206] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 2 | [Add Two Numbers][p2] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 24 | [Swap Nodes in Pairs][p24] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 328 | [Odd Even Linked List][p328] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 92 | [Reversed Linked List II][p92] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 [p125]: ./problems/basic/125/README.md
 [p344]: ./problems/basic/344/README.md
@@ -37,6 +44,13 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 [p561]: ./problems/basic/561/README.md
 [p238]: ./problems/basic/238/README.md
 [p121]: ./problems/basic/121/README.md
+[p234]: ./problems/basic/234/README.md
+[p21]: ./problems/basic/21/README.md
+[p206]: ./problems/basic/206/README.md
+[p2]: ./problems/basic/2/README.md
+[p24]: ./problems/basic/24/README.md
+[p328]: ./problems/basic/328/README.md
+[p92]: ./problems/basic/92/README.md
 
 ## Contest problems
 
