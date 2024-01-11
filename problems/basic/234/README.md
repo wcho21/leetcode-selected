@@ -10,7 +10,7 @@ Problem: [234. Palindrome Linked List][problem]
 
 ## How to solve
 
-First, a straightforward solution is just converting the input linked list into an array, and checking if it's palindrome using random access (`solution1`).
+First, a straightforward solution is just converting the input linked list into an array, and checking if it's a palindrome using random access (`solution1`).
 
 Another solution is using a "runner" technique (`solution2`).
 Place runners in the middle of the linked list, and compare the values by having the runners iterate over nodes from the middle to the both ends.
