@@ -11,7 +11,7 @@ Problem: [24. Swap Nodes in Pairs][problem]
 
 What the problem asks to do is straightforward and clear.
 We can solve in an iteratively manner (`solution1`), or a recursive manner (`solution2`).
-In either method, change `next` fields two by two nodes.
+In either method, change `next` fields for each pair of nodes.
 
 
 
