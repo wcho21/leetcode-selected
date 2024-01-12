@@ -9,7 +9,7 @@
 | 121 | [Best Time to Buy and Sell Stock][p121] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 234 | [Palindrome Linked List][p234] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 206 | [Reverse Linked List][p206] | ![Easy](https://img.shields.io/badge/Easy-green) |
-| 92 | [Reversed Linked List II][p92] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 92 | [Reverse Linked List II][p92] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 [p5]: ./problems/basic/5/README.md
 [p15]: ./problems/basic/15/README.md

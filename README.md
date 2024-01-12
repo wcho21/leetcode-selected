@@ -8,7 +8,7 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 
 ## Selected problems
 
-![Progress Badge](https://img.shields.io/badge/Progress-19%20Solved-blue)
+![Progress Badge](https://img.shields.io/badge/Progress-24%20Solved-blue)
 
 | No. | Note | Difficulty |
 | -: | :- | :-: |
@@ -21,7 +21,7 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 | 1 | [Two Sum][p1] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 42 | [Trapping Rain Water][p42] | ![Hard](https://img.shields.io/badge/Hard-red) |
 | 15 | [3Sum][p15] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| 561 | [Array Partition][p561] | ![Esay](https://img.shields.io/badge/Easy-green) |
+| 561 | [Array Partition][p561] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 238 | [Product of Array Except Self][p238] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 121 | [Best Time to Buy and Sell Stock][p121] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 234 | [Palindrome Linked List][p234] | ![Easy](https://img.shields.io/badge/Easy-green) |
@@ -31,6 +31,11 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 | 24 | [Swap Nodes in Pairs][p24] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 328 | [Odd Even Linked List][p328] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 92 | [Reversed Linked List II][p92] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 136 | [Single Number][p136] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 461 | [Hamming Distance][p461] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 371 | [Sum of Two Integers][p371] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 393 | [UTF-8 Validation][p393] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 191 | [Number of 1 Bits][p191] | ![Easy](https://img.shields.io/badge/Easy-green) |
 
 [p125]: ./problems/basic/125/README.md
 [p344]: ./problems/basic/344/README.md
@@ -51,6 +56,11 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 [p24]: ./problems/basic/24/README.md
 [p328]: ./problems/basic/328/README.md
 [p92]: ./problems/basic/92/README.md
+[p136]: ./problems/basic/136/README.md
+[p461]: ./problems/basic/461/README.md
+[p371]: ./problems/basic/371/README.md
+[p393]: ./problems/basic/393/README.md
+[p191]: ./problems/basic/191/README.md
 
 ## Contest problems
 
