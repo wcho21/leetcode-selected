@@ -10,9 +10,9 @@ Problem: [20. Valid Parentheses][problem]
 ## How to solve
 
 The solution is simple.
-First, Create a stack.
+First, create a stack.
 Whenever an opening parenthesis encountered, push it onto the stack.
-For a closing parenthesis, pop a parenthesis from the stack and compare it with the current closing one.
+For a closing parenthesis, pop an opening parenthesis from the stack and compare it with the current closing one.
 By doing this, we can determine if the input is valid or not.
 
 There are two edge cases to cover.

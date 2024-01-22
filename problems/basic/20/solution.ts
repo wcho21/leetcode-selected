@@ -1,4 +1,4 @@
-// Accepted: 60ms (60.80%), 44.60 (49.60%)
+// Accepted: 60ms (60.80%), 44.60MB (49.60%)
 
 function isValid(s: string): boolean {
     const stack: string[] = [];
