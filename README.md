@@ -8,7 +8,7 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 
 ## Selected problems
 
-![Progress Badge](https://img.shields.io/badge/Progress-24%20Solved-blue)
+![Progress Badge](https://img.shields.io/badge/Progress-30%20Solved-blue)
 
 | No. | Note | Difficulty |
 | -: | :- | :-: |
@@ -31,6 +31,12 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 | 24 | [Swap Nodes in Pairs][p24] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 328 | [Odd Even Linked List][p328] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 92 | [Reversed Linked List II][p92] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 20 | [Valid Parentheses][p20] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 316 | [Remove Duplicate Letters][p316] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 739 | [Daily Temperatures][p739] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 225 | [Implement Stack using Queues][p225] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 232 | [Implement Queue using Stacks][p232] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 622 | [Designing Circular Queue][p622] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 136 | [Single Number][p136] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 461 | [Hamming Distance][p461] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 371 | [Sum of Two Integers][p371] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
@@ -56,6 +62,12 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 [p24]: ./problems/basic/24/README.md
 [p328]: ./problems/basic/328/README.md
 [p92]: ./problems/basic/92/README.md
+[p20]: ./problems/basic/20/README.md
+[p316]: ./problems/basic/316/README.md
+[p739]: ./problems/basic/739/README.md
+[p225]: ./problems/basic/225/README.md
+[p232]: ./problems/basic/232/README.md
+[p622]: ./problems/basic/622/README.md
 [p136]: ./problems/basic/136/README.md
 [p461]: ./problems/basic/461/README.md
 [p371]: ./problems/basic/371/README.md

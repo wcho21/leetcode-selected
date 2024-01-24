@@ -10,6 +10,9 @@
 | 234 | [Palindrome Linked List][p234] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 206 | [Reverse Linked List][p206] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 92 | [Reverse Linked List II][p92] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 316 | [Remove Duplicate Letters][p316] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 739 | [Daily Temperatures][p739] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 225 | [Implement Stack using Queues][p225] | ![Easy](https://img.shields.io/badge/Easy-green) |
 
 [p5]: ./problems/basic/5/README.md
 [p15]: ./problems/basic/15/README.md
@@ -17,3 +20,6 @@
 [p234]: ./problems/basic/234/README.md
 [p206]: ./problems/basic/206/README.md
 [p92]: ./problems/basic/92/README.md
+[p316]: ./problems/basic/316/README.md
+[p739]: ./problems/basic/739/README.md
+[p225]: ./problems/basic/225/README.md
