@@ -8,7 +8,7 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 
 ## Selected problems
 
-![Progress Badge](https://img.shields.io/badge/Progress-30%20Solved-blue)
+![Progress Badge](https://img.shields.io/badge/Progress-32%20Solved-blue)
 
 | No. | Note | Difficulty |
 | -: | :- | :-: |
@@ -37,6 +37,8 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 | 225 | [Implement Stack using Queues][p225] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 232 | [Implement Queue using Stacks][p232] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 622 | [Designing Circular Queue][p622] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 641 | [Design Circular][p641] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 23 | [Merge k Sorted Lists][p23] | ![Hard](https://img.shields.io/badge/Hard-red) |
 | 136 | [Single Number][p136] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 461 | [Hamming Distance][p461] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 371 | [Sum of Two Integers][p371] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
@@ -68,6 +70,8 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 [p225]: ./problems/basic/225/README.md
 [p232]: ./problems/basic/232/README.md
 [p622]: ./problems/basic/622/README.md
+[p641]: ./problems/basic/641/README.md
+[p23]: ./problems/basic/23/README.md
 [p136]: ./problems/basic/136/README.md
 [p461]: ./problems/basic/461/README.md
 [p371]: ./problems/basic/371/README.md
