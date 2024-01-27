@@ -35,4 +35,4 @@ Thus, it requires $O(NM \log N)$.
 
 For `solution1`, the priority queue takes $O(NM)$ cells.
 
-For `solution2`, just $O(1)$ extra space required.
+For `solution2`, the call stack may require $O(NM)$ space.
