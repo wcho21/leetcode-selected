@@ -15,7 +15,7 @@
 | 225 | [Implement Stack using Queues][p225] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 23 | [Merge k Sorted Lists][p23] | ![Hard](https://img.shields.io/badge/Hard-red) |
 | 3 | [Longest Substring Without Repeating Characters][p3] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
-| 347 | [Top Frequent Element][p347] | ![Difficulty Medium](https://img.shields.io/badge/Difficulty-Medium-yellow) |
+| 347 | [Top Frequent Element][p347] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 [p5]: ./problems/basic/5/README.md
 [p15]: ./problems/basic/15/README.md
