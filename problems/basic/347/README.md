@@ -22,7 +22,7 @@ However, since the problem asks to solve with time complexity better than $O(N \
 Suppose that we're asked to get the top `k` frequent numbers.
 First, count the number of occurrences (that is, frequency) for each input number.
 Then for each count, create a bucket, which contains the numbers that correspond to that count.
-Now, collect `k` numbers from the buckets, checking the buckets in decreasing order of count.
+Now, collect `k` numbers from the buckets, checking the buckets in the decreasing order of count.
 
 
 

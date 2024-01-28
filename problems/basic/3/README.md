@@ -16,6 +16,7 @@ If it contains a repeating charater, move the left pointer to exclude the charac
 
 When moving the left pointer, we can use a hash table as an optimization.
 That is, not moving the pointer one by one, but moving it to the next character just after the last occurrence of the repeating character.
+To do that, we can keep the last occurrences using a hash table.
 
 
 
