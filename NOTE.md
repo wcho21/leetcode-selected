@@ -14,6 +14,8 @@
 | 739 | [Daily Temperatures][p739] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 225 | [Implement Stack using Queues][p225] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 23 | [Merge k Sorted Lists][p23] | ![Hard](https://img.shields.io/badge/Hard-red) |
+| 3 | [Longest Substring Without Repeating Characters][p3] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 347 | [Top Frequent Element][p347] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 [p5]: ./problems/basic/5/README.md
 [p15]: ./problems/basic/15/README.md
@@ -25,3 +27,5 @@
 [p739]: ./problems/basic/739/README.md
 [p225]: ./problems/basic/225/README.md
 [p23]: ./problems/basic/23/README.md
+[p3]: ./problems/basic/3/README.md
+[p347]: ./problems/basic/347/README.md

@@ -8,7 +8,7 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 
 ## Selected problems
 
-![Progress Badge](https://img.shields.io/badge/Progress-32%20Solved-blue)
+![Progress Badge](https://img.shields.io/badge/Progress-36%20Solved-blue)
 
 | No. | Note | Difficulty |
 | -: | :- | :-: |
@@ -39,6 +39,10 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 | 622 | [Designing Circular Queue][p622] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 641 | [Design Circular][p641] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 23 | [Merge k Sorted Lists][p23] | ![Hard](https://img.shields.io/badge/Hard-red) |
+| 706 | [Design HashMap][p706] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 771 | [Jewels and Stones][p771] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 3 | [Longest Substring Without Repeating Characters][p3] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 347 | [Top Frequent Element][p347] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 136 | [Single Number][p136] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 461 | [Hamming Distance][p461] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 371 | [Sum of Two Integers][p371] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
@@ -72,6 +76,10 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 [p622]: ./problems/basic/622/README.md
 [p641]: ./problems/basic/641/README.md
 [p23]: ./problems/basic/23/README.md
+[p706]: ./problems/basic/706/README.md
+[p771]: ./problems/basic/771/README.md
+[p3]: ./problems/basic/3/README.md
+[p347]: ./problems/basic/347/README.md
 [p136]: ./problems/basic/136/README.md
 [p461]: ./problems/basic/461/README.md
 [p371]: ./problems/basic/371/README.md
