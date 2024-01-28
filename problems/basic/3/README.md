@@ -2,9 +2,9 @@
 
 ![Difficulty Medium](https://img.shields.io/badge/Difficulty-Medium-yellow)
 
-Problem: [347. Top K Frequent Elements][problem]
+Problem: [3. Longest Substring Without Repeating Characters][problem]
 
-[problem]: https://leetcode.com/problems/top-k-frequent-elements/description/
+[problem]: https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 
 
 
