@@ -9,11 +9,18 @@ Problem: [53. Maximum Subarray][problem]
 
 ## How to solve
 
+### Simple dynamic programming
+
 Suppose that the problem has been solved for `n-1` numbers.
 We can solve the problem using [dynamic programming][dp] (`solution1`).
+
+[dp]: https://en.wikipedia.org/wiki/Dynamic_programming
+
 Using the maximum sum `sums[n-1]` from the case of `n-1`, we can determine the next maximum sum.
 That is, we choose the greater number between the current number itself (`nums[n]`) and the sum the current number and the previous maximum sum (`sums[n-1] + nums[n]`).
 Then the maximum number in the list of sums is the answer.
+
+### Kadane's algorithm
 
 Here we can improve the space complexity (`solution2`), using the [Kadane's algorithm][kadane-alg].
 Note that we only need to keep track of two numbers, which are the current sum `curSum` and the maximum sum `maxSum`.
@@ -21,6 +28,8 @@ Whenever the sum `curSum + nums[i]` is less than the current number `nums[i]`, u
 Iterating through each number, we maintain the the greatest one as `maxSum`, which is the answer.
 
 [kadane-alg]: https://en.wikipedia.org/w/index.php?title=Maximum_subarray_problem&oldid=1187835725#Kadane's_algorithm
+
+### Divide-and-conquer solution
 
 We can solve in a divide-and-conquer manner (`solution3`), which the problem asks to do.
 Assume that, for a list of numbers $a_1$ to $a_n$, we have the maximum sums for the first half, $a_1$ to $a_m$, and the second half, $a_m$ to $a_n$, where $m$ is the middle index and the intervals are right-open.
