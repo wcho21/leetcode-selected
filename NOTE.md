@@ -16,6 +16,7 @@
 | 23 | [Merge k Sorted Lists][p23] | ![Hard](https://img.shields.io/badge/Hard-red) |
 | 3 | [Longest Substring Without Repeating Characters][p3] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 347 | [Top Frequent Element][p347] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 53 | [Maximum Subarray][p53] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 [p5]: ./problems/basic/5/README.md
 [p15]: ./problems/basic/15/README.md
@@ -29,3 +30,4 @@
 [p23]: ./problems/basic/23/README.md
 [p3]: ./problems/basic/3/README.md
 [p347]: ./problems/basic/347/README.md
+[p53]: ./problems/basic/53/README.md

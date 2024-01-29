@@ -8,7 +8,7 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 
 ## Selected problems
 
-![Progress Badge](https://img.shields.io/badge/Progress-36%20Solved-blue)
+![Progress Badge](https://img.shields.io/badge/Progress-40%20Solved-blue)
 
 | No. | Note | Difficulty |
 | -: | :- | :-: |
@@ -48,6 +48,10 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 | 371 | [Sum of Two Integers][p371] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 393 | [UTF-8 Validation][p393] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 191 | [Number of 1 Bits][p191] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 509 | [Fibonacci Number][p509] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 53 | [Maximum Subarray][p53] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 70 | [Climbing Stairs][p70] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 198 | [House Robber][p198] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 [p125]: ./problems/basic/125/README.md
 [p344]: ./problems/basic/344/README.md
@@ -85,6 +89,10 @@ My solutions and notes for select problems in [Leetcode][leetcode].
 [p371]: ./problems/basic/371/README.md
 [p393]: ./problems/basic/393/README.md
 [p191]: ./problems/basic/191/README.md
+[p509]: ./problems/basic/509/README.md
+[p53]: ./problems/basic/53/README.md
+[p70]: ./problems/basic/70/README.md
+[p198]: ./problems/basic/198/README.md
 
 ## Contest problems
 
