@@ -1,4 +1,4 @@
-// Accepted: 0ms (100.00%), 9.99MB (10.68%)
+// Accepted: 0ms (100.00%), 9.07MB (18.87%)
 
 class Solution {
     static constexpr int MAX_LEN = 6;
@@ -9,8 +9,7 @@ class Solution {
 
     void go(vector<int>& nums) {
         if (generated.size() == nums.size()) {
-            vector<int> permutation(generated.begin(), generated.end());
-            permutations.push_back(permutation);
+            permutations.push_back(generated);
             return;
         }
 
