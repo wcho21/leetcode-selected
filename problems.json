@@ -34,7 +34,7 @@
       "number": 17,
       "name": "Letter Combinations of a Phone Number",
       "difficulty": "Medium",
-      "tags": ["Selected Problems", "Tricky Problems"]
+      "tags": ["Selected Problems"]
     },
     {
       "number": 20,
@@ -85,9 +85,21 @@
       "tags": ["Selected Problems", "Tricky Problems"]
     },
     {
+      "number": 56,
+      "name": "Merge Intervals",
+      "difficulty": "Medium",
+      "tags": ["Selected Problems"]
+    },
+    {
       "number": 70,
       "name": "Climbing Stairs",
       "difficulty": "Easy",
+      "tags": ["Selected Problems"]
+    },
+    {
+      "number": 75,
+      "name": "Sort Colors",
+      "difficulty": "Medium",
       "tags": ["Selected Problems"]
     },
     {
@@ -121,8 +133,20 @@
       "tags": ["Selected Problems"]
     },
     {
+      "number": 147,
+      "name": "Insertion Sort List",
+      "difficulty": "Medium",
+      "tags": ["Selected Problems", "Tricky Problems"]
+    },
+    {
       "number": 148,
       "name": "Sort List",
+      "difficulty": "Medium",
+      "tags": ["Selected Problems"]
+    },
+    {
+      "number": 179,
+      "name": "Largest Number",
       "difficulty": "Medium",
       "tags": ["Selected Problems"]
     },
@@ -172,6 +196,12 @@
       "number": 238,
       "name": "Product of Array Except Self",
       "difficulty": "Medium",
+      "tags": ["Selected Problems"]
+    },
+    {
+      "number": 242,
+      "name": "Valid Anagram",
+      "difficulty": "Easy",
       "tags": ["Selected Problems"]
     },
     {
@@ -267,6 +297,12 @@
     {
       "number": 937,
       "name": "Reorder Data in Log Files",
+      "difficulty": "Medium",
+      "tags": ["Selected Problems"]
+    },
+    {
+      "number": 973,
+      "name": "K Closest Points to Origin",
       "difficulty": "Medium",
       "tags": ["Selected Problems"]
     },
