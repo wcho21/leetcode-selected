@@ -1,6 +1,6 @@
 # DOC_HEADING
 
-![Progress Badge](https://img.shields.io/badge/Progress-48%20Solved-blue)
+![Progress Badge](https://img.shields.io/badge/Progress-49%20Solved-blue)
 
 Lists of solved problems.
 A problem may appear in more than one list.
@@ -29,6 +29,7 @@ A problem may appear in more than one list.
 | 121 | [Best Time to Buy and Sell Stock][p121] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 125 | [Valid Palindrome][p125] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 136 | [Single Number][p136] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 148 | [Sort List][p148] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 191 | [Number of 1 Bits][p191] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 198 | [House Robber][p198] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 200 | [Number of Islands][p200] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
@@ -101,6 +102,7 @@ A problem may appear in more than one list.
 [p121]: ./problems/121/README.md
 [p125]: ./problems/125/README.md
 [p136]: ./problems/136/README.md
+[p148]: ./problems/148/README.md
 [p191]: ./problems/191/README.md
 [p198]: ./problems/198/README.md
 [p200]: ./problems/200/README.md
