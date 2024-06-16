@@ -1,6 +1,10 @@
+"""
+LISTS.md documentation generator
+"""
+
 import json
 
-# config
+# user-level config
 
 DOC_HEADING = "Lists"
 DOC_HEADING_DESC = "Lists of solved problems.\nA problem may appear in more than one list."
@@ -32,12 +36,15 @@ MARKDOWN_DIFFICULTY_BADGE_COLORS = {
     "Medium": "yellow",
     "Hard": "red",
 }
+MARKDOWN_DIFFICULTY_BADGE_URL = "https://img.shields.io/badge/"
+
+# internal config
+
 MARKDOWN_ALIGNS = {
     "left": ":-",
     "center": ":-:",
     "right": "-:",
 }
-MARKDOWN_DIFFICULTY_BADGE_URL = "https://img.shields.io/badge/"
 MARKDOWN_LINK_PREFIX = "p"
 
 # markdown generating logic
@@ -49,7 +56,7 @@ def generate_markdown(json_file):
     formatted_problems = format_problems(problems)
 
     formatted = "\n\n".join([
-        f"# DOC_HEADING",
+        f"# {DOC_HEADING}",
         formatted_progress_badge,
         DOC_HEADING_DESC,
         formatted_problems
