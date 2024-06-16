@@ -31,6 +31,12 @@
       "tags": ["Selected Problems", "Tricky Problems"]
     },
     {
+      "number": 17,
+      "name": "Letter Combinations of a Phone Number",
+      "difficulty": "Medium",
+      "tags": ["Selected Problems", "Tricky Problems"]
+    },
+    {
       "number": 20,
       "name": "Valid Parentheses",
       "difficulty": "Easy",
@@ -61,6 +67,12 @@
       "tags": ["Selected Problems"]
     },
     {
+      "number": 46,
+      "name": "Permutations",
+      "difficulty": "Medium",
+      "tags": ["Selected Problems"]
+    },
+    {
       "number": 49,
       "name": "Group Anagrams",
       "difficulty": "Medium",
@@ -76,6 +88,12 @@
       "number": 70,
       "name": "Climbing Stairs",
       "difficulty": "Easy",
+      "tags": ["Selected Problems"]
+    },
+    {
+      "number": 77,
+      "name": "Climbing Stairs",
+      "difficulty": "Medium",
       "tags": ["Selected Problems"]
     },
     {
@@ -111,6 +129,12 @@
     {
       "number": 198,
       "name": "House Robber",
+      "difficulty": "Medium",
+      "tags": ["Selected Problems"]
+    },
+    {
+      "number": 200,
+      "name": "Number of Islands",
       "difficulty": "Medium",
       "tags": ["Selected Problems"]
     },

@@ -1,6 +1,6 @@
 # DOC_HEADING
 
-![Progress Badge](https://img.shields.io/badge/Progress-44%20Solved-blue)
+![Progress Badge](https://img.shields.io/badge/Progress-48%20Solved-blue)
 
 Lists of solved problems.
 A problem may appear in more than one list.
@@ -14,20 +14,24 @@ A problem may appear in more than one list.
 | 3 | [Longest Substring Without Repeating Characters][p3] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 5 | [Longest Palindromic Substring][p5] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 15 | [3Sum][p15] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 17 | [Letter Combinations of a Phone Number][p17] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 20 | [Valid Parentheses][p20] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 21 | [Merge Two Sorted Lists][p21] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 23 | [Merge k Sorted Lists][p23] | ![Hard](https://img.shields.io/badge/Hard-red) |
 | 24 | [Swap Nodes in Pairs][p24] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 42 | [Trapping Rain Water][p42] | ![Hard](https://img.shields.io/badge/Hard-red) |
+| 46 | [Permutations][p46] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 49 | [Group Anagrams][p49] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 53 | [Maximum Subarray][p53] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 70 | [Climbing Stairs][p70] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 77 | [Climbing Stairs][p77] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 92 | [Reversed Linked List II][p92] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 121 | [Best Time to Buy and Sell Stock][p121] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 125 | [Valid Palindrome][p125] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 136 | [Single Number][p136] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 191 | [Number of 1 Bits][p191] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 198 | [House Robber][p198] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 200 | [Number of Islands][p200] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 206 | [Reverse Linked List][p206] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 225 | [Implement Stack using Queues][p225] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 232 | [Implement Queue using Stacks][p232] | ![Easy](https://img.shields.io/badge/Easy-green) |
@@ -57,6 +61,7 @@ A problem may appear in more than one list.
 | 3 | [Longest Substring Without Repeating Characters][p3] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 5 | [Longest Palindromic Substring][p5] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 15 | [3Sum][p15] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 17 | [Letter Combinations of a Phone Number][p17] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 23 | [Merge k Sorted Lists][p23] | ![Hard](https://img.shields.io/badge/Hard-red) |
 | 53 | [Maximum Subarray][p53] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 92 | [Reversed Linked List II][p92] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
@@ -81,20 +86,24 @@ A problem may appear in more than one list.
 [p3]: ./problems/3/README.md
 [p5]: ./problems/5/README.md
 [p15]: ./problems/15/README.md
+[p17]: ./problems/17/README.md
 [p20]: ./problems/20/README.md
 [p21]: ./problems/21/README.md
 [p23]: ./problems/23/README.md
 [p24]: ./problems/24/README.md
 [p42]: ./problems/42/README.md
+[p46]: ./problems/46/README.md
 [p49]: ./problems/49/README.md
 [p53]: ./problems/53/README.md
 [p70]: ./problems/70/README.md
+[p77]: ./problems/77/README.md
 [p92]: ./problems/92/README.md
 [p121]: ./problems/121/README.md
 [p125]: ./problems/125/README.md
 [p136]: ./problems/136/README.md
 [p191]: ./problems/191/README.md
 [p198]: ./problems/198/README.md
+[p200]: ./problems/200/README.md
 [p206]: ./problems/206/README.md
 [p225]: ./problems/225/README.md
 [p232]: ./problems/232/README.md
