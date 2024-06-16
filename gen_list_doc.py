@@ -49,7 +49,7 @@ def generate_markdown(json_file):
     formatted_problems = format_problems(problems)
 
     formatted = "\n\n".join([
-        f"# DOC_HEADING",
+        f"# {DOC_HEADING}",
         formatted_progress_badge,
         DOC_HEADING_DESC,
         formatted_problems
