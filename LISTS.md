@@ -1,6 +1,6 @@
 # Lists
 
-![Progress Badge](https://img.shields.io/badge/Progress-55%20Solved-blue)
+![Progress Badge](https://img.shields.io/badge/Progress-57%20Solved-blue)
 
 Lists of solved problems.
 A problem may appear in more than one list.
@@ -33,6 +33,7 @@ A problem may appear in more than one list.
 | 136 | [Single Number][p136] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 147 | [Insertion Sort List][p147] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 148 | [Sort List][p148] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 169 | [Majority Element][p169] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 179 | [Largest Number][p179] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 191 | [Number of 1 Bits][p191] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 198 | [House Robber][p198] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
@@ -42,6 +43,7 @@ A problem may appear in more than one list.
 | 232 | [Implement Queue using Stacks][p232] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 234 | [Palindrome Linked List][p234] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 238 | [Product of Array Except Self][p238] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 241 | [Different Ways to Add Parentheses][p241] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 242 | [Valid Anagram][p242] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 316 | [Remove Duplicate Letters][p316] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 328 | [Odd Even Linked List][p328] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
@@ -68,12 +70,17 @@ A problem may appear in more than one list.
 | 3 | [Longest Substring Without Repeating Characters][p3] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 5 | [Longest Palindromic Substring][p5] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 15 | [3Sum][p15] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 21 | [Merge Two Sorted Lists][p21] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 23 | [Merge k Sorted Lists][p23] | ![Hard](https://img.shields.io/badge/Hard-red) |
+| 42 | [Trapping Rain Water][p42] | ![Hard](https://img.shields.io/badge/Hard-red) |
 | 53 | [Maximum Subarray][p53] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 92 | [Reversed Linked List II][p92] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 121 | [Best Time to Buy and Sell Stock][p121] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 147 | [Insertion Sort List][p147] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 148 | [Sort List][p148] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 179 | [Largest Number][p179] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 206 | [Reverse Linked List][p206] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 225 | [Implement Stack using Queues][p225] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 234 | [Palindrome Linked List][p234] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 316 | [Remove Duplicate Letters][p316] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 347 | [Top Frequent Element][p347] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
@@ -112,6 +119,7 @@ A problem may appear in more than one list.
 [p136]: ./problems/136/README.md
 [p147]: ./problems/147/README.md
 [p148]: ./problems/148/README.md
+[p169]: ./problems/169/README.md
 [p179]: ./problems/179/README.md
 [p191]: ./problems/191/README.md
 [p198]: ./problems/198/README.md
@@ -121,6 +129,7 @@ A problem may appear in more than one list.
 [p232]: ./problems/232/README.md
 [p234]: ./problems/234/README.md
 [p238]: ./problems/238/README.md
+[p241]: ./problems/241/README.md
 [p242]: ./problems/242/README.md
 [p316]: ./problems/316/README.md
 [p328]: ./problems/328/README.md
