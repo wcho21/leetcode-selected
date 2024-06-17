@@ -46,7 +46,7 @@
       "number": 21,
       "name": "Merge Two Sorted Lists",
       "difficulty": "Easy",
-      "tags": ["Selected Problems"]
+      "tags": ["Selected Problems", "Tricky Problems"]
     },
     {
       "number": 23,
@@ -64,7 +64,7 @@
       "number": 42,
       "name": "Trapping Rain Water",
       "difficulty": "Hard",
-      "tags": ["Selected Problems"]
+      "tags": ["Selected Problems", "Tricky Problems"]
     },
     {
       "number": 46,
@@ -142,13 +142,13 @@
       "number": 148,
       "name": "Sort List",
       "difficulty": "Medium",
-      "tags": ["Selected Problems"]
+      "tags": ["Selected Problems", "Tricky Problems"]
     },
     {
       "number": 179,
       "name": "Largest Number",
       "difficulty": "Medium",
-      "tags": ["Selected Problems"]
+      "tags": ["Selected Problems", "Tricky Problems"]
     },
     {
       "number": 191,
@@ -178,7 +178,7 @@
       "number": 225,
       "name": "Implement Stack using Queues",
       "difficulty": "Easy",
-      "tags": ["Selected Problems"]
+      "tags": ["Selected Problems", "Tricky Problems"]
     },
     {
       "number": 232,

@@ -68,12 +68,17 @@ A problem may appear in more than one list.
 | 3 | [Longest Substring Without Repeating Characters][p3] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 5 | [Longest Palindromic Substring][p5] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 15 | [3Sum][p15] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 21 | [Merge Two Sorted Lists][p21] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 23 | [Merge k Sorted Lists][p23] | ![Hard](https://img.shields.io/badge/Hard-red) |
+| 42 | [Trapping Rain Water][p42] | ![Hard](https://img.shields.io/badge/Hard-red) |
 | 53 | [Maximum Subarray][p53] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 92 | [Reversed Linked List II][p92] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 121 | [Best Time to Buy and Sell Stock][p121] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 147 | [Insertion Sort List][p147] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 148 | [Sort List][p148] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 179 | [Largest Number][p179] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 206 | [Reverse Linked List][p206] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 225 | [Implement Stack using Queues][p225] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 234 | [Palindrome Linked List][p234] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 316 | [Remove Duplicate Letters][p316] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 347 | [Top Frequent Element][p347] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
