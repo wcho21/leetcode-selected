@@ -145,6 +145,12 @@
       "tags": ["Selected Problems", "Tricky Problems"]
     },
     {
+      "number": 169,
+      "name": "Majority Element",
+      "difficulty": "Easy",
+      "tags": ["Selected Problems"]
+    },
+    {
       "number": 179,
       "name": "Largest Number",
       "difficulty": "Medium",
@@ -195,6 +201,12 @@
     {
       "number": 238,
       "name": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "tags": ["Selected Problems"]
+    },
+    {
+      "number": 241,
+      "name": "Different Ways to Add Parentheses",
       "difficulty": "Medium",
       "tags": ["Selected Problems"]
     },
