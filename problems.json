@@ -61,6 +61,12 @@
       "tags": ["Selected Problems"]
     },
     {
+      "number": 33,
+      "name": "Search in Rotated Sorted Array",
+      "difficulty": "Medium",
+      "tags": ["Selected Problems", "Tricky Problems"]
+    },
+    {
       "number": 42,
       "name": "Trapping Rain Water",
       "difficulty": "Hard",
@@ -145,6 +151,12 @@
       "tags": ["Selected Problems", "Tricky Problems"]
     },
     {
+      "number": 167,
+      "name": "Two Sum II - Input Array Is Sorted",
+      "difficulty": "Easy",
+      "tags": ["Selected Problems"]
+    },
+    {
       "number": 169,
       "name": "Majority Element",
       "difficulty": "Easy",
@@ -181,6 +193,12 @@
       "tags": ["Selected Problems", "Tricky Problems"]
     },
     {
+      "number": 215,
+      "name": "Kth Largest Element in an Array",
+      "difficulty": "Medium",
+      "tags": ["Selected Problems", "Tricky Problems"]
+    },
+    {
       "number": 225,
       "name": "Implement Stack using Queues",
       "difficulty": "Easy",
@@ -202,6 +220,12 @@
       "number": 238,
       "name": "Product of Array Except Self",
       "difficulty": "Medium",
+      "tags": ["Selected Problems"]
+    },
+    {
+      "number": 240,
+      "name": "Search a 2D Matrix II",
+      "difficulty": "Easy",
       "tags": ["Selected Problems"]
     },
     {
@@ -239,6 +263,12 @@
       "name": "Top Frequent Element",
       "difficulty": "Medium",
       "tags": ["Selected Problems", "Tricky Problems"]
+    },
+    {
+      "number": 349,
+      "name": "Intersection of Two Arrays",
+      "difficulty": "Easy",
+      "tags": ["Selected Problems"]
     },
     {
       "number": 371,
@@ -280,6 +310,12 @@
       "number": 641,
       "name": "Design Circular",
       "difficulty": "Medium",
+      "tags": ["Selected Problems"]
+    },
+    {
+      "number": 704,
+      "name": "Binary Search",
+      "difficulty": "Easy",
       "tags": ["Selected Problems"]
     },
     {

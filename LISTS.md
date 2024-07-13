@@ -1,6 +1,6 @@
 # Lists
 
-![Progress Badge](https://img.shields.io/badge/Progress-57%20Solved-blue)
+![Progress Badge](https://img.shields.io/badge/Progress-63%20Solved-blue)
 
 Lists of solved problems.
 A problem may appear in more than one list.
@@ -19,6 +19,7 @@ A problem may appear in more than one list.
 | 21 | [Merge Two Sorted Lists][p21] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 23 | [Merge k Sorted Lists][p23] | ![Hard](https://img.shields.io/badge/Hard-red) |
 | 24 | [Swap Nodes in Pairs][p24] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 33 | [Search in Rotated Sorted Array][p33] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 42 | [Trapping Rain Water][p42] | ![Hard](https://img.shields.io/badge/Hard-red) |
 | 46 | [Permutations][p46] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 49 | [Group Anagrams][p49] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
@@ -33,22 +34,26 @@ A problem may appear in more than one list.
 | 136 | [Single Number][p136] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 147 | [Insertion Sort List][p147] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 148 | [Sort List][p148] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 167 | [Two Sum II - Input Array Is Sorted][p167] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 169 | [Majority Element][p169] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 179 | [Largest Number][p179] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 191 | [Number of 1 Bits][p191] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 198 | [House Robber][p198] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 200 | [Number of Islands][p200] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 206 | [Reverse Linked List][p206] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 215 | [Kth Largest Element in an Array][p215] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 225 | [Implement Stack using Queues][p225] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 232 | [Implement Queue using Stacks][p232] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 234 | [Palindrome Linked List][p234] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 238 | [Product of Array Except Self][p238] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 240 | [Search a 2D Matrix II][p240] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 241 | [Different Ways to Add Parentheses][p241] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 242 | [Valid Anagram][p242] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 316 | [Remove Duplicate Letters][p316] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 328 | [Odd Even Linked List][p328] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 344 | [Reverse String][p344] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 347 | [Top Frequent Element][p347] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 349 | [Intersection of Two Arrays][p349] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 371 | [Sum of Two Integers][p371] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 393 | [UTF-8 Validation][p393] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 461 | [Hamming Distance][p461] | ![Easy](https://img.shields.io/badge/Easy-green) |
@@ -56,6 +61,7 @@ A problem may appear in more than one list.
 | 561 | [Array Partition][p561] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 622 | [Designing Circular Queue][p622] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 641 | [Design Circular][p641] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 704 | [Binary Search][p704] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 706 | [Design HashMap][p706] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 739 | [Daily Temperatures][p739] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 771 | [Jewels and Stones][p771] | ![Easy](https://img.shields.io/badge/Easy-green) |
@@ -72,6 +78,7 @@ A problem may appear in more than one list.
 | 15 | [3Sum][p15] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 21 | [Merge Two Sorted Lists][p21] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 23 | [Merge k Sorted Lists][p23] | ![Hard](https://img.shields.io/badge/Hard-red) |
+| 33 | [Search in Rotated Sorted Array][p33] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 42 | [Trapping Rain Water][p42] | ![Hard](https://img.shields.io/badge/Hard-red) |
 | 53 | [Maximum Subarray][p53] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 92 | [Reversed Linked List II][p92] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
@@ -80,6 +87,7 @@ A problem may appear in more than one list.
 | 148 | [Sort List][p148] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 179 | [Largest Number][p179] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 206 | [Reverse Linked List][p206] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 215 | [Kth Largest Element in an Array][p215] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 225 | [Implement Stack using Queues][p225] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 234 | [Palindrome Linked List][p234] | ![Easy](https://img.shields.io/badge/Easy-green) |
 | 316 | [Remove Duplicate Letters][p316] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
@@ -105,6 +113,7 @@ A problem may appear in more than one list.
 [p21]: ./problems/21/README.md
 [p23]: ./problems/23/README.md
 [p24]: ./problems/24/README.md
+[p33]: ./problems/33/README.md
 [p42]: ./problems/42/README.md
 [p46]: ./problems/46/README.md
 [p49]: ./problems/49/README.md
@@ -119,22 +128,26 @@ A problem may appear in more than one list.
 [p136]: ./problems/136/README.md
 [p147]: ./problems/147/README.md
 [p148]: ./problems/148/README.md
+[p167]: ./problems/167/README.md
 [p169]: ./problems/169/README.md
 [p179]: ./problems/179/README.md
 [p191]: ./problems/191/README.md
 [p198]: ./problems/198/README.md
 [p200]: ./problems/200/README.md
 [p206]: ./problems/206/README.md
+[p215]: ./problems/215/README.md
 [p225]: ./problems/225/README.md
 [p232]: ./problems/232/README.md
 [p234]: ./problems/234/README.md
 [p238]: ./problems/238/README.md
+[p240]: ./problems/240/README.md
 [p241]: ./problems/241/README.md
 [p242]: ./problems/242/README.md
 [p316]: ./problems/316/README.md
 [p328]: ./problems/328/README.md
 [p344]: ./problems/344/README.md
 [p347]: ./problems/347/README.md
+[p349]: ./problems/349/README.md
 [p371]: ./problems/371/README.md
 [p393]: ./problems/393/README.md
 [p461]: ./problems/461/README.md
@@ -142,6 +155,7 @@ A problem may appear in more than one list.
 [p561]: ./problems/561/README.md
 [p622]: ./problems/622/README.md
 [p641]: ./problems/641/README.md
+[p704]: ./problems/704/README.md
 [p706]: ./problems/706/README.md
 [p739]: ./problems/739/README.md
 [p771]: ./problems/771/README.md
