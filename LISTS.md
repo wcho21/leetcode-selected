@@ -7,6 +7,8 @@ A problem may appear in more than one list.
 
 ## Selected Problems
 
+![Progress Badge](https://img.shields.io/badge/Progress-59%20Solved-blue)
+
 | No. | Note | Difficulty |
 | -: | :- | :-: |
 | 1 | [Two Sum][p1] | ![Easy](https://img.shields.io/badge/Easy-green) |
@@ -71,6 +73,8 @@ A problem may appear in more than one list.
 
 ## Top Interview Questions
 
+![Progress Badge](https://img.shields.io/badge/Progress-36%20Solved-blue)
+
 | No. | Note | Difficulty |
 | -: | :- | :-: |
 | 1 | [Two Sum][p1] | ![Easy](https://img.shields.io/badge/Easy-green) |
@@ -112,6 +116,8 @@ A problem may appear in more than one list.
 
 ## Tricky Problems
 
+![Progress Badge](https://img.shields.io/badge/Progress-20%20Solved-blue)
+
 | No. | Note | Difficulty |
 | -: | :- | :-: |
 | 3 | [Longest Substring Without Repeating Characters][p3] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
@@ -136,6 +142,8 @@ A problem may appear in more than one list.
 | 739 | [Daily Temperatures][p739] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 ## Contest Problems
+
+![Progress Badge](https://img.shields.io/badge/Progress-4%20Solved-blue)
 
 | No. | Note | Difficulty | Contest |
 | -: | :- | :-: | :- |
