@@ -15,6 +15,9 @@ LISTS = [
         "name": "Selected Problems",
     },
     {
+        "name": "Top Interview Questions",
+    },
+    {
         "name": "Tricky Problems",
     },
     {
@@ -36,7 +39,7 @@ MARKDOWN_DIFFICULTY_BADGE_COLORS = {
     "Medium": "yellow",
     "Hard": "red",
 }
-MARKDOWN_DIFFICULTY_BADGE_URL = "https://img.shields.io/badge/"
+MARKDOWN_BADGE_URL = "https://img.shields.io/badge/"
 
 # internal config
 
@@ -65,19 +68,22 @@ def generate_markdown(json_file):
     return formatted
 
 def format_problems(problems):
-    formatted_list_texts = []
+    formatted_texts = []
 
     for list_config in LISTS:
-        formatted_list = format_list(problems, list_config)
-        formatted_list_text = f"## {list_config["name"]}\n\n" + formatted_list
-        formatted_list_texts.append(formatted_list_text)
+        header = f"## {list_config["name"]}" + "\n\n"
+        filtered_problems = filter_problems_by_config(problems, list_config)
+        problem_list = format_list(filtered_problems, list_config)
+
+        formatted = header + problem_list
+        formatted_texts.append(formatted)
 
     formatted_links = format_links(problems)
 
-    return "\n\n".join(formatted_list_texts + [formatted_links])
+    return "\n\n".join(formatted_texts + [formatted_links])
 
 def format_progress_badge(problems):
-    url = MARKDOWN_DIFFICULTY_BADGE_URL
+    url = MARKDOWN_BADGE_URL
     num_problems = len(problems)
 
     return f"![Progress Badge]({url}Progress-{num_problems}%20Solved-blue)"
@@ -92,24 +98,27 @@ def format_links(problems):
     formatted_rows = "\n".join(rows)
     return formatted_rows
 
-def format_list(problems, list_config):
-    # filter problems with tag
+def filter_problems_by_config(problems, list_config):
     tag_name = list_config["name"]
     has_tag_name = lambda problem: tag_name in problem["tags"]
-    filtered_problems = list(filter(has_tag_name, problems))
+    filtered = list(filter(has_tag_name, problems))
 
+    return filtered
+
+def format_list(problems, list_config):
     extra_columns_config = list_config.get("extra_columns", {})
 
     # get columns
-    column_names = format_column_names(filtered_problems, extra_columns_config)
-    column_aligns = format_column_aligns(filtered_problems, extra_columns_config)
-    problem_columns = format_problem_columns(filtered_problems, extra_columns_config)
+    column_names = format_column_names(problems, extra_columns_config)
+    column_aligns = format_column_aligns(problems, extra_columns_config)
+    problem_columns = format_problem_columns(problems, extra_columns_config)
 
     columns = [column_names, column_aligns] + problem_columns
 
     # format rows as markdown
+    progress_badge = format_progress_badge(problems)
     formatted_rows = list(map(format_markdown_table_row, columns))
-    formatted_text = "\n".join(formatted_rows)
+    formatted_text = progress_badge + "\n\n" + "\n".join(formatted_rows)
 
     return formatted_text
 
@@ -165,7 +174,7 @@ def format_markdown_link(link_name, link_path):
     return f"[{MARKDOWN_LINK_PREFIX}{link_name}]: {link_path}"
 
 def format_markdown_difficulty(difficulty):
-    url = MARKDOWN_DIFFICULTY_BADGE_URL
+    url = MARKDOWN_BADGE_URL
     color = MARKDOWN_DIFFICULTY_BADGE_COLORS[difficulty]
 
     return f"![{difficulty}]({url}{difficulty}-{color})"

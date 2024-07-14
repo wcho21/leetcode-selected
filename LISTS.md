@@ -7,6 +7,8 @@ A problem may appear in more than one list.
 
 ## Selected Problems
 
+![Progress Badge](https://img.shields.io/badge/Progress-59%20Solved-blue)
+
 | No. | Note | Difficulty |
 | -: | :- | :-: |
 | 1 | [Two Sum][p1] | ![Easy](https://img.shields.io/badge/Easy-green) |
@@ -69,7 +71,52 @@ A problem may appear in more than one list.
 | 937 | [Reorder Data in Log Files][p937] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 | 973 | [K Closest Points to Origin][p973] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
+## Top Interview Questions
+
+![Progress Badge](https://img.shields.io/badge/Progress-36%20Solved-blue)
+
+| No. | Note | Difficulty |
+| -: | :- | :-: |
+| 1 | [Two Sum][p1] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 2 | [Add Two Numbers][p2] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 3 | [Longest Substring Without Repeating Characters][p3] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 5 | [Longest Palindromic Substring][p5] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 15 | [3Sum][p15] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 17 | [Letter Combinations of a Phone Number][p17] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 20 | [Valid Parentheses][p20] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 21 | [Merge Two Sorted Lists][p21] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 23 | [Merge k Sorted Lists][p23] | ![Hard](https://img.shields.io/badge/Hard-red) |
+| 33 | [Search in Rotated Sorted Array][p33] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 42 | [Trapping Rain Water][p42] | ![Hard](https://img.shields.io/badge/Hard-red) |
+| 46 | [Permutations][p46] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 49 | [Group Anagrams][p49] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 53 | [Maximum Subarray][p53] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 56 | [Merge Intervals][p56] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 70 | [Climbing Stairs][p70] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 75 | [Sort Colors][p75] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 121 | [Best Time to Buy and Sell Stock][p121] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 125 | [Valid Palindrome][p125] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 136 | [Single Number][p136] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 148 | [Sort List][p148] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 169 | [Majority Element][p169] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 179 | [Largest Number][p179] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 191 | [Number of 1 Bits][p191] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 198 | [House Robber][p198] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 200 | [Number of Islands][p200] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 206 | [Reverse Linked List][p206] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 215 | [Kth Largest Element in an Array][p215] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 234 | [Palindrome Linked List][p234] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 238 | [Product of Array Except Self][p238] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 240 | [Search a 2D Matrix II][p240] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 242 | [Valid Anagram][p242] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 328 | [Odd Even Linked List][p328] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 344 | [Reverse String][p344] | ![Easy](https://img.shields.io/badge/Easy-green) |
+| 347 | [Top Frequent Element][p347] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+| 371 | [Sum of Two Integers][p371] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
+
 ## Tricky Problems
+
+![Progress Badge](https://img.shields.io/badge/Progress-20%20Solved-blue)
 
 | No. | Note | Difficulty |
 | -: | :- | :-: |
@@ -95,6 +142,8 @@ A problem may appear in more than one list.
 | 739 | [Daily Temperatures][p739] | ![Medium](https://img.shields.io/badge/Medium-yellow) |
 
 ## Contest Problems
+
+![Progress Badge](https://img.shields.io/badge/Progress-4%20Solved-blue)
 
 | No. | Note | Difficulty | Contest |
 | -: | :- | :-: | :- |
